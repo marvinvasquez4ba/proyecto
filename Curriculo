@@ -1,0 +1,82 @@
+<html> 
+
+    <head> 
+
+  
+
+        <title>CURICULUM</title> 
+        
+        </head> 
+
+            <body bgcolor="#98F5F9"></body> 
+
+                <h1 id="localSEO">Hoja de vida </h1></a> 
+
+                <h1 id="menu">Menu</h1><br> 
+
+                <a href="#Datos personales">Datos personales</a><br> 
+
+                <a href="#Datos Academicos">Datos Academicos</a><br> 
+
+                <a href="#Habilidades y Fortalezas">Habilidades y Fortalezas</a><br> 
+
+                <a href="#Habilidades Técnicas">Habilidades Técnicas</a><br> 
+
+                <hr size="10"> 
+
+            <a id="persona"><h1>Datos personales</h2></a> 
+
+                <b>Nombre:</b>Marvin Joel <br> 
+
+                <b>Apellido:</b>Vasquez Lopez <br> 
+
+                <b>Grado:</b> 5to bach "A"<br> 
+
+                <b>Fecha de nacimiento:</b>4 de octubre 2007<br> 
+
+                <b>Correo electronico:</b>Marvinvasquez554@gmail.com <br> 
+
+                <b>Nacionalidad:</b>Guatemala <br> 
+
+                <img src="foto.jpg.jpg" alt = "imagen" height= "200" width="200"><br>
+
+                <a href="#menu">Regreso a menu</a><br> 
+
+                <hr size="10"> 
+
+            <a id="Datos Academicos"><h1>Datos Academicos</h1></a> 
+
+                <b>Prepimaria:</b>Escuela Rural Mixta<br> 
+
+                <b>Primaria:</b>Escuela Rural Mixta <br> 
+
+                <b>Básicos:</b>Instituto Profesional de Computación <br> 
+
+                <b>Diversificado segundo año:</b> <br>
+                  
+                 <a href="#menu">Regreso a menu</a><br> 
+        
+           <a id="Habilidades y Fortalezas"><h1>Habilidades y Fortalezas</h1></a> 
+
+           <b>1:</b>Organizador<br> 
+           <b>2:</b>Comunicación<br>
+           <b>3:</b>Trabajo en Equipo<br>
+
+           <a href="#menu">Regreso a menu</a><br> 
+
+           <hr size="10"> 
+
+            <a id="Habilidades Técnicas"><h1>Habilidades Técnicas</h1></a>
+ 
+	    <b>1:</b>Manejo De Herramientas Digitales<br> 
+           <b>2:</b>Programación Primordial<br>
+           <b>3:</b>Análisis De Datos<br>
+
+
+            <a href="#menu">Regreso a menu</a><br> 
+
+            <hr size="10"> 
+
+                
+
+            </body>
